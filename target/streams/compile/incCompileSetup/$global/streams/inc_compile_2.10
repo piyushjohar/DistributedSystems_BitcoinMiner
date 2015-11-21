@@ -1,0 +1,346 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$$anonfun$1.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$$anonfun$2.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Calculate$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$GiveWork$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$HexStringGeneration.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Listener$$anonfun$receive$3.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Listener.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$$anonfun$receive$2.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$NewRemoteWorker$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$Start$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$Start.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$MinnedHexCode$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$MinnedHexCode.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$StartWorker$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Stop$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$StopAndPrintExecutionSummary$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$StopAndPrintExecutionSummary.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Work$.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Work.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$checkZeroCount$1$$anonfun$apply$mcV$sp$1.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$checkZeroCount$1.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$getHexString$1.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$receive$1.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker.class
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner.class
+binary dependencies:
+4 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.7.jar
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /home/pj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$$anonfun$1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$$anonfun$2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Calculate$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$GiveWork$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$HexStringGeneration
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Listener
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Listener$$anonfun$receive$3
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master$$anonfun$receive$2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master$$anonfun$receive$2$$anonfun$applyOrElse$1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master$NewRemoteWorker$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master$Start
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Master$Start$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$MinnedHexCode
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$MinnedHexCode$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$StartWorker$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Stop$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$StopAndPrintExecutionSummary
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$StopAndPrintExecutionSummary$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Work
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Work$
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Worker
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Worker$$anonfun$checkZeroCount$1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Worker$$anonfun$checkZeroCount$1$$anonfun$apply$mcV$sp$1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Worker$$anonfun$getHexString$1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner$Worker$$anonfun$receive$1
+used names:
+177 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> !
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> !=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> &
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> &&
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> +
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> +=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> -
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> <
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> <init>
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ==
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> A1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> AbstractFunction1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> AbstractFunction2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> AbstractFunction4
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Actor
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ActorRef
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ActorSystem
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> AnyRef
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Array
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ArrayBuffer
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> B1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> BitCoinMiner
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Breaks
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Byte
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Calculate
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ClassTag
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ConfigFactory
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Foreach
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Function1
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> GiveWork
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> HexStringGeneration
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Int
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Integer
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ListBuffer
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Listener
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> LoggingReceive
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Long
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Master
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> MessageDigest
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> MinnedHexCode
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> NewRemoteWorker
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> None
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Predef
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Product
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Props
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Random
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ScalaRunTime
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Serializable
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Start
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> StartWorker
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Statics
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Stop
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> StopAndPrintExecutionSummary
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> String
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> StringBuffer
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> System
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Terminated
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Unit
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Work
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> Worker
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> _hashCode
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> _toString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> a
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> actor
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> actorOf
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> actorRef2Scala
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> actorSelection
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> akka
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> alphanumeric
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> anyHash
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> append
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> apply
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> args
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> asInstanceOf
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> augmentString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> break
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> breakable
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> checkZeroCount
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> closedWorkers
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> closedWorkers_=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> collection
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> com
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> combined
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> config
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> contains
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> context
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> control
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> create
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> currentTimeMillis
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> digest
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> dispatch
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> duration
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> encrypt
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> eq
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> event
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> exit
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> finalizeHash
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> foreach
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> format
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> generateHexCode
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> getBytes
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> getHexString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> getInstance
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> hashValue
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> hexString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> i
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> intWrapper
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> io
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ipAddress
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> isInstanceOf
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> j
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> java
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> lang
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> length
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> listener
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> listener2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> listener_=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> load
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> longHash
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> loop
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> master
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> materializeClassTag
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> messageDigest
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> minnedHexCodeString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> minnedHexCodes
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> mix
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> mkString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> mutable
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ne
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nextInt
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> noOfMinnedStrings
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nrOfStrings
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nrOfStrings2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nrOfStrings_=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nrOfWorkers
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nrOfWorkers2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> nrOfWorkers_=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> package
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> parseString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> println
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> randNum
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> randString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> randomString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> randomStringf
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> remoteSystem
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> runtime
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> scala
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> security
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> self
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> sender
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> sha256
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> shaString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> shutdown
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> size
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> start
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> stop
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> stringsLeft
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> stringsLeft_=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> substring
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> system
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> take
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> tell
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> to
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> toInt
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> toString
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> typedProductIterator
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> typesafe
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> unchecked
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> update
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> util
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> worker
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> zeroCount
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> zeroCountReq
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> zeroCountReq2
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> zeroCountReq_=
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> zeroFound
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> ||
+product stamps:
+29 items
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$$anonfun$1.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$$anonfun$2.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Calculate$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$GiveWork$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$HexStringGeneration.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Listener$$anonfun$receive$3.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Listener.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$$anonfun$receive$2.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$NewRemoteWorker$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$Start$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master$Start.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Master.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$MinnedHexCode$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$MinnedHexCode.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$StartWorker$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Stop$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$StopAndPrintExecutionSummary$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$StopAndPrintExecutionSummary.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Work$.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Work.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$checkZeroCount$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$checkZeroCount$1.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$getHexString$1.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker$$anonfun$receive$1.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner$Worker.class -> lastModified(1448097530000)
+/home/pj/Desktop/fall/dos/Project1/maincode/target/scala-2.10/classes/BitCoinMiner.class -> lastModified(1448097530000)
+source stamps:
+1 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> hash(13031e6ad6cd0586cb90c22815d636a63999135a)
+binary stamps:
+4 items
+/home/pj/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.7.jar -> lastModified(1415796972000)
+/home/pj/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042454000)
+/home/pj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> lastModified(1380275091000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1445789562000)
+class names:
+4 items
+/home/pj/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.7.jar -> akka.actor.Actor
+/home/pj/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/home/pj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar -> scala.Serializable
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB40FafAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hweBeV7nQABHNlbGZzcQB+AAuLpjAddAAHY29udGV4dHVxAH4ACQAAAFRzcQB+AAucUvIWdAALbnJPZldvcmtlcnNzcQB+AAsh2jcPdAAGbm90aWZ5c3EAfgALxWjCoHQAB3VuYXBwbHlzcQB+AAuoYVvFdAAIZHVyYXRpb25zcQB+AAsifx/ndAAHY3VycmllZHNxAH4AC8h3Y8B0AAdSZWNlaXZlc3EAfgALgS2DlnQADm1pbm5lZEhleENvZGVzc3EAfgALvp8Am3QAC25yT2ZTdHJpbmdzc3EAfgALSFP4xXQABHdhaXRzcQB+AAuEh82mdAAGTWFzdGVyc3EAfgALBdQK9HQADmNvcHkkZGVmYXVsdCQyc3EAfgALbk1cyXQADSRhc0luc3RhbmNlT2ZzcQB+AAtlRyVvdAAEc2l6ZXNxAH4ACwCXm+90AAdjb21wb3Nlc3EAfgALjet/jXQAHFN0b3BBbmRQcmludEV4ZWN1dGlvblN1bW1hcnlzcQB+AAsgSPVxdAAIR2l2ZVdvcmtzcQB+AAuo2u7JdAAIbGlzdGVuZXJzcQB+AAvyFSfsdAAMcHJvZHVjdEFyaXR5c3EAfgAL27uZ/HQAE21pbm5lZEhleENvZGVTdHJpbmdzcQB+AAt9/RrSdAAGZXF1YWxzc3EAfgALTyvf3nQADGdldEhleFN0cmluZ3NxAH4AC7kzPIR0AAxhc0luc3RhbmNlT2ZzcQB+AAvYO6wKdAAOY2hlY2taZXJvQ291bnRzcQB+AAu3nzPfdAARbm9PZk1pbm5lZFN0cmluZ3NzcQB+AAuYkp4odAANTWlubmVkSGV4Q29kZXNxAH4AC97SYjF0AAxzeW5jaHJvbml6ZWRzcQB+AAsPlvokdAAMcmFuZG9tU3RyaW5nc3EAfgALCKDCuHQADSRpc0luc3RhbmNlT2ZzcQB+AAsNPC53dAAHYW5kVGhlbnNxAH4AC7YDnlB0AAdyZWNlaXZlc3EAfgALITYC9nQACnByZVJlc3RhcnRzcQB+AAuF9xyKdAAGdHVwbGVkc3EAfgALp1BLI3QADWFyb3VuZFJlY2VpdmVzcQB+AAtJsLk9dAALc3RyaW5nc0xlZnRzcQB+AAvP6PFgdAAHZW5jcnlwdHNxAH4AC+L99Xx0AAhjYW5FcXVhbHNxAH4ACx0zozF0AAtwb3N0UmVzdGFydHNxAH4ACypJdql0AA5jb3B5JGRlZmF1bHQkNHNxAH4AC8LHfZV0AARtYWluc3EAfgALmYX+KnQABVN0YXJ0c3EAfgALLszHVnQACHBvc3RTdG9wc3EAfgALpq7i03QADXByb2R1Y3RQcmVmaXhzcQB+AAu76mIXdAAJbm90aWZ5QWxsc3EAfgALWN6n73QAC3JlYWRSZXNvbHZlc3EAfgALiEoAtXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALY3MHtnQADGlzSW5zdGFuY2VPZnNxAH4AC0jG0WB0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALlQrZTXQADmFyb3VuZFBvc3RTdG9wc3EAfgALW8U2FHQACExpc3RlbmVyc3EAfgALRnV1fHQABFdvcmtzcQB+AAtkIH+vdAAGPGluaXQ+c3EAfgALYVBq9nQACHByZVN0YXJ0c3EAfgALM+aVEXQADHplcm9Db3VudFJlcXNxAH4AC2QMByV0AAl1bmhhbmRsZWRzcQB+AAuXH0rydAATSGV4U3RyaW5nR2VuZXJhdGlvbnNxAH4AC4lm0kV0AAVhcHBseXNxAH4ACw3ewjB0AAI9PXNxAH4AC/FUPOJ0AAVjbG9uZXNxAH4AC+t2scp0AAlDYWxjdWxhdGVzcQB+AAv3LSPGdAAOY29weSRkZWZhdWx0JDNzcQB+AAsNVeEJdAAEY29weXNxAH4AC/y6/S90AAZzZW5kZXJzcQB+AAuRPvjbdAAIdG9TdHJpbmdzcQB+AAsZ0XmTdAACIT1zcQB+AAths1OWdAAIZ2V0Q2xhc3NzcQB+AAshIf0kdAAGV29ya2Vyc3EAfgALAdHZA3QADmNvcHkkZGVmYXVsdCQxc3EAfgALZ5/wh3QADXJhbmRvbVN0cmluZ2ZzcQB+AAs0bEoVdAAFc3RhcnRzcQB+AAvUq55SdAAEU3RvcHNxAH4AC3ujD810AAJuZXNxAH4AC8wixpZ0AA9OZXdSZW1vdGVXb3JrZXJzcQB+AAvrTHRSdAANY2xvc2VkV29ya2Vyc3NxAH4AC7hX4IN0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAvvYQhEdAACZXFzcQB+AAtWKCQAdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALeFPbaHQAC1N0YXJ0V29ya2Vyc3EAfgALmm6Kc3QAD2dlbmVyYXRlSGV4Q29kZXNxAH4ACx8bkoB0AAIjI3NxAH4ACzFZxoN0AAhmaW5hbGl6ZXNxAH4AC2CWzhV0AA5wcm9kdWN0RWxlbWVudHNxAH4AC/IAkh50AAhoYXNoQ29kZXNxAH4ACypsYM50AA5hcm91bmRQcmVTdGFydHNxAH4AC9XfNYZ0AAxCaXRDb2luTWluZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgDDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ALl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDaAHBzcQB+AN9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aw0wACWluaGVyaXRlZHEAfgDDTAAHcGFyZW50c3EAfgDDeHEAfgDjc3EAfgDaAHBzcQB+AN91cQB+AL4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AMRxAH4AzXVxAH4AzgAAAABzcQB+ANAAcQB+AF91cQB+ANIAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4A4nQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AOJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AQB1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgDteHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgDVdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgD0WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDic3EAfgDzdAAFQXJyYXlxAH4A+XVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDzdAAGU3RyaW5nc3EAfgD3c3EAfgD6dXEAfgD9AAAAA3NxAH4A/3QABGphdmFzcQB+AP90AARsYW5ncQB+AQRzcQB+ANoAcHNxAH4A33VxAH4AvgAAAABzcQB+ANoAcHNxAH4A33VxAH4BGAAAAAJzcQB+APN0AAZPYmplY3RxAH4BHHNxAH4A83QAA0FueXEAfgD5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVEpVpY5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARS9ob21lL3BqL0Rlc2t0b3AvZmFsbC9kb3MvUHJvamVjdDEvbWFpbmNvZGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBMDHmrWzQWGy5DCKBXWNqY5mRNa
+external apis:
+0 items
+source infos:
+1 items
+/home/pj/Desktop/fall/dos/Project1/maincode/BitCoinMiner.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8kSGUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9ob21lL3BqL0Rlc2t0b3AvbWFpbmNvZGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8khKUN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9ob21lL3BqL0Rlc2t0b3AvbWFpbmNvZGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8k09YZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9ob21lL3BqL0Rlc2t0b3AvbWFpbmNvZGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURYiFjV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3BqL0Rlc2t0b3AvZmFsbC9kb3MvUHJvamVjdDEvbWFpbmNvZGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUSlWljl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3BqL0Rlc2t0b3AvZmFsbC9kb3MvUHJvamVjdDEvbWFpbmNvZGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
